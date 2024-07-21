@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://statyph.github.io/sitemap
+Sitemap: https://statyph.github.io/app/sitemap
+Sitemap: https://statyph.github.io/assets/sitemap
+Sitemap: https://statyph.github.io/css/sitemap
+Sitemap: https://statyph.github.io/includes/sitemap
+Sitemap: https://statyph.github.io/item/sitemap
+Sitemap: https://statyph.github.io/src/sitemap
